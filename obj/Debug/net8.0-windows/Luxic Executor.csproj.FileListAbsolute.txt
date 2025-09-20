@@ -1,0 +1,17 @@
+C:\Users\cooki\Documents\Luxic Executor\bin\Debug\net8.0-windows\Luxic Executor.exe
+C:\Users\cooki\Documents\Luxic Executor\bin\Debug\net8.0-windows\Luxic Executor.deps.json
+C:\Users\cooki\Documents\Luxic Executor\bin\Debug\net8.0-windows\Luxic Executor.runtimeconfig.json
+C:\Users\cooki\Documents\Luxic Executor\bin\Debug\net8.0-windows\Luxic Executor.dll
+C:\Users\cooki\Documents\Luxic Executor\bin\Debug\net8.0-windows\Luxic Executor.pdb
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\WeAreDevs_API.Luxic.resources
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\Luxic Executor.csproj.GenerateResource.cache
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\Luxic Executor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\Luxic Executor.AssemblyInfoInputs.cache
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\Luxic Executor.AssemblyInfo.cs
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\Luxic Executor.csproj.CoreCompileInputs.cache
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\Luxic Executor.dll
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\refint\Luxic Executor.dll
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\Luxic Executor.pdb
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\Luxic Executor.genruntimeconfig.cache
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\ref\Luxic Executor.dll
+C:\Users\cooki\Documents\Luxic Executor\obj\Debug\net8.0-windows\WeAreDevs_API.Properties.Resources.resources

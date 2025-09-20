@@ -1,0 +1,16 @@
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\bin\Debug\net8.0-windows\CS Demo.exe
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\bin\Debug\net8.0-windows\CS Demo.deps.json
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\bin\Debug\net8.0-windows\CS Demo.runtimeconfig.json
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\bin\Debug\net8.0-windows\CS Demo.dll
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\bin\Debug\net8.0-windows\CS Demo.pdb
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\WeAreDevs_API.Form1.resources
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\CS Demo.csproj.GenerateResource.cache
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\CS Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\CS Demo.AssemblyInfoInputs.cache
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\CS Demo.AssemblyInfo.cs
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\CS Demo.csproj.CoreCompileInputs.cache
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\CS Demo.dll
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\refint\CS Demo.dll
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\CS Demo.pdb
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\CS Demo.genruntimeconfig.cache
+C:\Users\cooki\Downloads\WRD Exploit API CS Example\WRD Exploit API C# Example\obj\Debug\net8.0-windows\ref\CS Demo.dll
